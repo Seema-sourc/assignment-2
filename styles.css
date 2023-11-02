@@ -1,0 +1,124 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  padding-block: 15px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #fcecd8;
+  font-weight: bold;
+}
+
+.span12 {
+  margin-top: 15px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  text-align: center;
+  margin-inline: 5px;
+  padding: 15px;
+  background-color: #c5e8f3;
+  font-weight: bold;
+}
+
+.container-row {
+  /* padding-bottom: 75px;*/
+  height: 85%;
+  border: 1px solid gray;
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  /*padding-bottom: 60%;*/
+  box-sizing: border-box;
+  padding-top: 20px;
+  background-color: #fcecd8;
+  font-weight: bold;
+}
+
+.index-x {
+  display: flex;
+}
+
+.span4-1 {
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 30%;
+  height: 550px;
+  margin-top: 15px;
+  padding-top: 15px;
+  background-color: #c5e8f3;
+  font-weight: bold;
+}
+
+.span8 {
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 70%;
+  box-sizing: border-box;
+  margin-top: 15px;
+  padding-top: 15px;
+  background-color: #c5e8f3;
+  font-weight: bold;
+}
+
+.row1 {
+  height: 45%;
+  width: 97%;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 15px;
+  padding-top: 15px;
+  background-color: #fcecd8;
+  font-weight: bold;
+}
+
+.span4-2 {
+  height: 200px;
+  width: 50%;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: #c5e8f3;
+  padding-top: 15px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.span4-3 {
+  height: 200px;
+  width: 50%;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: #c5e8f3;
+  padding-top: 15px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.row2 {
+  height: 40%;
+  width: 97%;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 15px;
+  padding-top: 15px;
+  background-color: #fcecd8;
+  font-weight: bold;
+}
+
+.span8-1 {
+  height: 75%;
+  width: 98%;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin: 10px;
+  padding-top: 15px;
+  background-color: #c5e8f3;
+  font-weight: bold;
+}
